@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(200, 200, 200);
+}
+
+header {
+    display: flex;
+}
+
+#logo {
+    width: 275px;
+    height: 275px;
+}
+
+.welcome-text {
+    text-align: center;
+    margin: 0 0 0 70px;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+#low-price-link {
+    font-size: 26px;
+    margin-top: 55px;
+}
+
+.center-text {
+    text-align: center;
+    font-size: 22px;
+    margin: 30px 0;
+}
+
+.article-heading {
+    font-size: 32px;
+/*    text-transform: uppercase;*/
+    font-variant: small-caps;
+}
+
+article * {
+    margin: 0;
+}
+
+section {
+    font-size: 23px;
+    margin: 0 0 0 55px;
+}
